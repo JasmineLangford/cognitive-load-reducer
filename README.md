@@ -14,11 +14,11 @@ The goal: transform scattered inputs into clear, structured insights that reduce
 This project was created as my first vibe-coding experiment—building iteratively and intuitively with AI-assisted development rather than following a strict blueprint.
 
 ### Features
-📷 Upload a photo, screenshot, or record audio
-🤖 AI-powered extraction and categorization
-🎨 Simple, clean UI built with Jetpack Compose
-💾 Local storage of processed summaries using Room
-📂 Organized insights across four cognitive load categories
+📷 Upload a photo, screenshot, or record audio <br>  
+🤖 AI-powered extraction and categorization <br> 
+🎨 Simple, clean UI built with Jetpack Compose <br>  
+💾 Local storage of processed summaries using Room <br> 
+📂 Organized insights across four cognitive load categories 
 
 ### Tech Stack
 - Tech Stack
